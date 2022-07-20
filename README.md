@@ -1,17 +1,17 @@
 Hello, and welcome to my Github profile! Github is where I post any programming I do. Most of my projects are for competitions and personal projects. I am currently a high school student at Landstown High School Technology Academy that loves technology and computers. I occaisonally 3D model, program (Python and Java), video edit, and persue personal projects.
 
 # Certifications
+<ul>
+<li>IC3 (Internet and Computing Core Certification)</li>
 
-IC3 (Internet and Computing Core Certification)
+<li>CTECS Workplace Readiness</li>
 
-CTECS Workplace Readiness
+<li>Microsoft Office 2019 (Word, PowerPoint, Excel)</li>
 
-Microsoft Office 2019 (Word, PowerPoint, Excel)
+<li>MTA Database Administration</li>
 
-MTA Database Administration
-
-CompTIA Security+
-
+  <li>CompTIA Security+</li>
+</ul>
 Go to my LinkedIn for more information on the certifications.
 
 
