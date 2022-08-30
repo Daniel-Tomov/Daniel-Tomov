@@ -22,3 +22,5 @@ Youtube: <a href="https://www.youtube.com/channel/UCUVEqe302eSgApI5qHvna3Q/">htt
 Twitter: <a href="https://twitter.com/Daniel_Tomov/">https://twitter.com/Daniel_Tomov/</a>
 
 LinkedIn: <a href="https://www.linkedin.com/in/daniel-tomov-963b33242/">https://www.linkedin.com/in/daniel-tomov-963b33242/</a>
+
+Website: <a href="https://danieltomov.tk">https://danieltomov.tk</a>
