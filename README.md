@@ -1,26 +1,35 @@
-Hello, and welcome to my Github profile! Github is where I post any programming I do. Most of my projects are for competitions and personal projects. I am currently a high school student at Landstown High School Technology Academy that loves technology and computers. I occaisonally 3D model, program (Python and Java), video edit, and persue personal projects.
+IT enthusiast with a passion for computer networking. Dedicated to learning new things and using known skills to solve everyday problems. Plagued with the overwhelming urge to tinker and solve everyday problems using technology. Majoring in Cyber Operations at Old Dominion University. Holds many certifications, including Microsoft Office Associate, CompTIA Security+, Network+, CySA+, and GSEC.
+
+Experience in software development using Java, Python, and Bash. Experience installing, using, configuring, administering, and troubleshooting Windows and Linux operating systems. Experience with network routers, switches, and firewalls. Knowledge of basic networking installation procedures.
+
 
 # Certifications
-<ul>
-<li>IC3 (Internet and Computing Core Certification)</li>
 
-<li>CTECS Workplace Readiness</li>
+- IC3 (Internet and Computing Core Certification)
+- CTECS Workplace Readiness
+- Microsoft Office 2019 (Word, PowerPoint, Excel)
+- MTA Database Administration
+- CompTIA Security+
+- CompTIA Network+
+- CompTIA CySA+
 
-<li>Microsoft Office 2019 (Word, PowerPoint, Excel)</li>
+Go to my [LinkedIn](https://www.linkedin.com/in/daniel-s-tomov/details/certifications) for more information on the certifications.
 
-<li>MTA Database Administration</li>
+# Skills
 
-  <li>CompTIA Security+</li>
-</ul>
-Go to my LinkedIn for more information on the certifications.
-
+- Python, Java, Bash, HTML, CSS, and JavaScript
+- Linux and Windows
+- VirtualBox, Docker, and VMware Pro and Player
+- GitHub, git, and change management
+- Wireshark, FTK Imager, Autopsy, and Volatility
+- Communication and leadership
 
 # Social Media
 
-Youtube: <a href="https://www.youtube.com/channel/UCUVEqe302eSgApI5qHvna3Q/">https://www.youtube.com/channel/UCUVEqe302eSgApI5qHvna3Q/</a>
+Youtube: [https://www.youtube.com/@danielstomov](https://www.youtube.com/@danielstomov)
 
-Twitter: <a href="https://twitter.com/Daniel_Tomov/">https://twitter.com/Daniel_Tomov/</a>
+Twitter: [https://twitter.com/Daniel_Tomov](https://twitter.com/Daniel_Tomov)
 
-LinkedIn: <a href="https://www.linkedin.com/in/daniel-tomov-963b33242/">https://www.linkedin.com/in/daniel-tomov-963b33242/</a>
+LinkedIn: [https://www.linkedin.com/in/daniel-s-tomov/](https://www.linkedin.com/in/daniel-s-tomov/)
 
-Website: <a href="https://danieltomov.tk">https://danieltomov.tk</a>
+Website: [https://danieltomov.me](https://danieltomov.me)
