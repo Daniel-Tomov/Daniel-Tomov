@@ -1,4 +1,4 @@
-IT enthusiast with a passion for computer networking. Dedicated to learning new things and using known skills to solve everyday problems. Plagued with the overwhelming urge to tinker and solve everyday problems using technology. Majoring in Cyber Operations at Old Dominion University. Holds many certifications, including Microsoft Office Associate, CompTIA Security+, Network+, CySA+, and GSEC.
+IT enthusiast with a passion for computer networking. Dedicated to learning new things and using known skills to solve everyday problems. Plagued with the overwhelming urge to tinker and solve everyday problems using technology. Majoring in Cyber Operations at Old Dominion University. Holds many certifications, including Microsoft Office Associate, CompTIA Security+, Network+, CySA+, GSEC, and GCLD.
 
 Experience in software development using Java, Python, and Bash. Experience installing, using, configuring, administering, and troubleshooting Windows and Linux operating systems. Experience with network routers, switches, and firewalls. Knowledge of basic networking installation procedures.
 
@@ -12,8 +12,11 @@ Experience in software development using Java, Python, and Bash. Experience inst
 - CompTIA Security+
 - CompTIA Network+
 - CompTIA CySA+
+- GIAC Foundational Cybersecurity Technologies (GFACT)
+- GIAC Security Essentials (GSEC)
+- GIAC Cloud Security Essentials (GCLD)
 
-Go to my [LinkedIn](https://www.linkedin.com/in/daniel-s-tomov/details/certifications) for more information on the certifications.
+Go to my [LinkedIn](https://www.linkedin.com/in/danielstomov/details/certifications) for more information on the certifications.
 
 # Skills
 
