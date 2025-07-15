@@ -1,7 +1,7 @@
-IT enthusiast with a passion for computer networking. Dedicated to learning new things and using known skills to solve everyday problems. Plagued with the overwhelming urge to tinker and solve everyday problems using technology. Majoring in Cyber Operations at Old Dominion University. Holds many certifications, including Microsoft Office Associate, CompTIA Security+, Network+, CySA+, GSEC, and GCLD.
 
-Experience in software development using Java, Python, and Bash. Experience installing, using, configuring, administering, and troubleshooting Windows and Linux operating systems. Experience with network routers, switches, and firewalls. Knowledge of basic networking installation procedures.
+Hi! My name is Daniel Tomov, a Cyber Operations major with a 3.98 GPA at Old Dominion University (NSA CAE-CO designated). I am an IT enthusiast with a passion for computer networking. I am dedicated to learning new things and solving problems and plagued with the overwhelming urge to tinker and solve everyday problems using technology.
 
+I have skills in networking (firewalls, switches, routers, ethernet, VLANs), operating systems (Windows and Linux), Virtualization platforms (Proxmox, VirtualBox, Docker, Portainer, and VMware Workstation), programming (HTML, CSS, Javascript, Python, Java), and some forensic software (Wireshark, FTK Imager, Autopsy, and Volatility).
 
 # Certifications
 
@@ -12,6 +12,8 @@ Experience in software development using Java, Python, and Bash. Experience inst
 - CompTIA Security+
 - CompTIA Network+
 - CompTIA CySA+
+- CompTIA Cloud+
+- CompTIA PenTest+
 - GIAC Foundational Cybersecurity Technologies (GFACT)
 - GIAC Security Essentials (GSEC)
 - GIAC Cloud Security Essentials (GCLD)
@@ -31,8 +33,6 @@ Go to my [LinkedIn](https://www.linkedin.com/in/danielstomov/details/certificati
 
 Youtube: [https://www.youtube.com/@danielstomov](https://www.youtube.com/@danielstomov)
 
-Twitter: [https://twitter.com/Daniel_Tomov](https://twitter.com/Daniel_Tomov)
+LinkedIn: [https://www.linkedin.com/in/danielstomov/](https://www.linkedin.com/in/danielstomov/)
 
-LinkedIn: [https://www.linkedin.com/in/daniel-s-tomov/](https://www.linkedin.com/in/daniel-s-tomov/)
-
-Website: [https://danieltomov.me](https://danieltomov.me)
+Website: [https://danieltomov.com](https://danieltomov.com)
